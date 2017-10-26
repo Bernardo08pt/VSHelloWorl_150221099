@@ -12,6 +12,7 @@ namespace VSHelloWorld_150221099
         public static void Main(string[] args)
         {
             //Andreia Novas
+            //OLA
             var host = new WebHostBuilder()
                 .UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())
