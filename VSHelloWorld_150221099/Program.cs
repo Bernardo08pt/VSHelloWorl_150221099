@@ -11,9 +11,8 @@ namespace VSHelloWorld_150221099
     {
         public static void Main(string[] args)
         {
-            //Andreia Novas
-            //OLA
-            //ADEUS
+            
+            //Andreia Pereira
             var host = new WebHostBuilder()
                 .UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())
